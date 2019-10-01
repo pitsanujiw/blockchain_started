@@ -1,0 +1,1 @@
+# A blockchain starter for learning purpose written in JavaScript
